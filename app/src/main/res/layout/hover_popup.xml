@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/apk/res-auto"
+
+
+
+    android:textSize="@dimen/hover_preview_text_size"
+    android:textColor="@color/hover_preview_text_color"
+    android:gravity="13"
+
+
+
+    android:paddingLeft="@dimen/hover_popup_left_right_padding"
+    android:paddingTop="@dimen/hover_popup_white_top_margin"
+    android:paddingRight="@dimen/hover_popup_left_right_padding"
+    android:paddingBottom="@dimen/hover_popup_white_bottom_margin"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:maxWidth="302dp"
+    android:fontFamily="sec-roboto-light"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
